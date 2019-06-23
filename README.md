@@ -14,3 +14,8 @@ update locally on update-readme branch
 - update made on master github before rebase
 
 edit for dealing with conflig
+
+# Repository Purpose
+This will be a change that conflicts
+with whatever is on the remote side.
+This was edited locally.

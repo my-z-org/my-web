@@ -12,3 +12,5 @@ update locally on update-readme branch
 
 # update for rebase
 - update made on master github before rebase
+
+edit for dealing with conflig
